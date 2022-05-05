@@ -1,0 +1,1 @@
+Skript som ska identifiera objekt.
