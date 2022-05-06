@@ -1,4 +1,4 @@
 # Avståndsbedömning för tillfället anpassad för realsense
-camera = "nothing right now"
+camera = "nothing right now g"
 
 print(camera)
